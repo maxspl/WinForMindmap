@@ -7,6 +7,7 @@ Windows forensics mindmap composed of personal notes and other mindmaps, includi
 This is not a guide for forensic windows, but simply centralized knowledge. So, to find out what to look for on a system, don't hesitate to use the SANS cheat sheets (included in the mindmap).
 
 The mindmap consists of two pages: forensic artifacts and tools. Note that not all of Eric Zimmerman's tools are in the mindmap, so keep in mind that for most artifacts, there's a tool made by E. Zimmerman https://ericzimmerman.github.io/#!index.md.
+
 In fact, there are other pages still under construction, not to be considered.
 
 It's easier to use the mindmap via xmind (.xmind file is in the archive), especially to be able to CTRL + F.
