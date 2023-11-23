@@ -29,5 +29,5 @@ The SANS Hunt Evil cheat sheet indicates that ShimCache may contain traces of ps
 For details on this artifact, open the dedicated section of the mindmap:
 ![Alt text](/assets/step3.png)
 
-Now that we know where the file is and what it contains, we can find a tool to parse it in the Tools sheet.
+Now that we know where the file is and what it contains, we can find a tool to parse it in the tools sheet.
 ![Alt text](/assets/step4.png)
